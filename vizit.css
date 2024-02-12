@@ -1,0 +1,15 @@
+html {
+    background-image: url(image/vizit.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+h3{
+    font-family: Courier New, monospace;
+    position: relative; bottom: 300px;
+}
